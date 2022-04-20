@@ -27,7 +27,7 @@ Getting help
 | ------------- |--------------------------------------------------------|
 | Documentation | [Gitblit website](http://gitblit.com)                  |
 | Forums        | [Google Groups](https://groups.google.com/forum/#!forum/gitblit) |
-| Twitter       | @gitblit or @jamesmoger                                |
+| Twitter       | https://twitter.com/AbebeGedefaw4                               |
 
 Contributing
 ------------
